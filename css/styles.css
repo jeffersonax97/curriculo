@@ -3121,6 +3121,10 @@ td:last-child {
 }
 
 .s-header__logo img {
+    padding-left: 10%;
+    height: 50px;
+    display: block;
+    margin: 20%;
     width         : var(--logo-width);
     margin        : 0;
     vertical-align: bottom;
